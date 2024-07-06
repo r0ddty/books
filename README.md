@@ -1,2 +1,1 @@
-# This is a repo with my books
-Here i will publish my books in Ukrainian
+# This is a brunch which contains "Robot's soul" book
